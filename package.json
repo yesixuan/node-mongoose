@@ -1,0 +1,31 @@
+{
+  "name": "node-mongodb",
+  "version": "1.0.0",
+  "description": "通过node和mongoo打造简单的电影网站",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jade": "^1.11.0",
+    "moment": "^2.17.1",
+    "mongoose": "^4.8.6",
+    "serve-static": "^1.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesixuan/node-mongoose.git"
+  },
+  "keywords": [
+    "node-mongoose"
+  ],
+  "author": "yesixuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yesixuan/node-mongoose/issues"
+  },
+  "homepage": "https://github.com/yesixuan/node-mongoose#readme"
+}
